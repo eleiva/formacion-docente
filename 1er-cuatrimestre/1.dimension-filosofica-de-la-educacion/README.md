@@ -16,16 +16,31 @@ Fechas:
     que las produce. Donde las preguntas son mas esceniales que las respuestas.
  
 1. Nombrar y describir, según Jaspers, donde se origina el pensamiento filosófico (Filosofar). Dar ejemplos.
-    Se origina en la naturaleza de las cosas.
-    Ejemplos: 
-        1. "me empeño en pensar que soy otro y sigo siendo siempre yo"
-        1. "¿Y que había antes del principio?"
+    1. Admiración 
+        i.e:
+        * hacia los astros
+        * al ser      
+    1. La duda (fuente del examen critico de todo conocimiento)
+        i.e: destino incierto.
+    1. Experiencia de las situaciones límites
+        i.e: un examen. 
 
 3. Describir las diferencias entre saber científico y saber filosófico. ejemplificar.
 
-    * Es necesario confirmar las teorias por medio de la experiencia? 
-        Filosofia: No
-        Ciencia: Si
-    *      
-## LA FILOSOFÍA segun Karl Jaspers 
+    1. Es necesario confirmar las teorías por medio de la experiencia?
+        * Filosofía:  No
+        * Ciencia:    Si (i.e: ley de ohm, se puede medir y comprobar)
+    La ciencia se basa en el “cómo” y la filosofía en el “qué”
+    i.e: La ciencia nos permite llegar a otro planeta, la filosofia nos hacce
+    pensar en la necesidad de ir a otro planeta.  
+    2. Es especulativa?
+        * Filosofía:  Si (i.e: las teorías pueden no ser correctas)
+        * Ciencia:    No
+    3. Trata la moral?
+        * Filosofía:  Si (i.e: El bien y el mal)
+        * Ciencia:    No
+    4. Responden preguntas diferentes (la filosofia se hace preguntas mas generales)
+    5. Tienen necesidades distintas.(una es cara y la otra no lo es) 
+    6. La filosofia dio paso a la ciencia.
+            
 
