@@ -12,11 +12,11 @@ Carga horaria: 32hs
 ### Objectivos
 
 * las practicas educativas son el resultado de la sociedad en un momento determinado.
-* La educacion es el resultado de diferentes areas del conocimiento existentes en la sociedad.
-* Desarrollar un pensamiento critico de la educacion (Identificando los conceptos y procedimientos necesarios para tal fin )
-* La reflexion como herramienta descubridora de las praxis docente basado en las teorias e ideologias en danza. 
-* La educacion como herramienta transformadora de la sociedad en los campos de la etica y politica.
-* La educacion como derecho social (los estudiantes como sujetos de derecho)
+* La educación es el resultado de diferentes areas del conocimiento existentes en la sociedad.
+* Desarrollar un pensamiento critico de la educación (Identificando los conceptos y procedimientos necesarios para tal fin )
+* La reflexion como herramienta descubridora de las praxis docente basado en las teorías e ideologías en danza. 
+* La educación como herramienta transformadora de la sociedad en los campos de la ética y politica.
+* La educación como derecho social (los estudiantes como sujetos de derecho)
 
 
 
