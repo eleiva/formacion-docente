@@ -2,6 +2,7 @@
 
 1. Leer el capítulo 4 del texto dado.
 2. Definir Ética conforme lo define el autor, pero agregando a la misma lo que entendés vos por ella. Podes hacerlo desde situaciones prácticas de tu trabajo o de tu vida.
+
     Es una rama de la filosofía, una disciplina racional, critica y argumentativa que tiene por objeto la moralidad de 
     las acciones, involucrando valores, normas y sanciones.
      
