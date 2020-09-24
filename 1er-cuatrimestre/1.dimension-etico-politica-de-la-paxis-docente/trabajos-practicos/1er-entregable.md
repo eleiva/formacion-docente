@@ -1,6 +1,9 @@
 # Ética en la formación docente
 
 1. Leer el capítulo 4 del texto dado.
+    
+    [Entranas eticas de la identidad docente](https://github.com/eleiva/formacion-docente/blob/master/1er-cuatrimestre/1.dimension-etico-politica-de-la-paxis-docente/documentos/Entra%C3%B1as%20%C3%A9ticas%20de%20la%20identidad%20docente-rotado.pdf)
+    
 2. Definir Ética conforme lo define el autor, pero agregando a la misma lo que entendés vos por ella. Podes hacerlo desde situaciones prácticas de tu trabajo o de tu vida.
 
     Es una rama de la filosofía, una disciplina racional, critica y argumentativa que tiene por objeto la moralidad de 
