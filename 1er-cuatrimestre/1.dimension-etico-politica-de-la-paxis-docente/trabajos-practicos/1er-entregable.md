@@ -23,29 +23,32 @@
     Explicar estas tres hipótesis.
    
     Respuestas: 
-        1. Un docente debe comprender la dimension moral de los problemas educativos ya que en ella se juegan políticas justas o injustas, 
-                por que hay acciones comunicativas y estratégicas, y por que hay poderes y deseos. 
-                Es así por que la educación es un caso ejemplar de como resolver esas tensiones constitutivas de la idea misma de 
-                justicia, como libertad, igualdad, solidaridad y esas otras constitutivas de la idea misma de bien, como fin deseable, 
-                como valor exigible, como identidad (personal y social).
-        2. Debido a que la enseñanza de la ética muchas veces es confundida en su alcance, es importante demarcar y tener las herramientas
-            para argumentar de diferentes formas ante conflictos u opiniones contrapuestas. 
-            La ética ES enseanable por que hay razones para la convivencia justa, y para reconocer diferentes ideales de vida, y
-            para aprender de unos y de otros. Estas razones publicas se las puede comunicar y argumentar.
-            Además, es necesario transponer los conceptos en contenidos educativos (transposición didáctica). 
-            El lugar del docente, a la hora de ensenar ética no debe confundirse, ni con imponer una moral, ni con inculcar valores.
-            Es importante esta atento cuando se discutan valores `controvertidos`, o frente a `posturas` más o menos intolerantes.
-            Siempre recordar que en la ética no se pretende inculcar nuestra propia escala de valores. La prudencia siempre nos ayudara
-            en el proceder cuando exista lo ético y dianoetico.
-            La cuestión es mantener el contexto publico del debate, es decir argumentar en un contexto de reglas de dialogo, aprendiendo
-            a reconocer las diferencias y aprender de ellas.
-        3. La relacion ético/educativa tiene que estar presente en la formación de cualquier maestro o profesor. Es parte central de su 
-            formación general básica. 
-            El docente al hacerse cargo de los contenidos educativos de acuerdo al nivel que se este formando, necesitara saberes 
-            específicos, que por lo mismo tienen que ensenarse como tales.
-            Dicho de otra forma, en base a los saberes específicos del nivel/carrera/curso que se este ensenando, el docente debera desarrollar
-            los contenidos educativos necesarios inmerso en una moral especifica para el lugar donde se desempeñe, simpre contribuyendo 
-            a la formación ciudadana reflexiva.           
+    
+    1. Un docente debe comprender la dimension moral de los problemas educativos ya que en ella se juegan políticas justas o injustas, 
+        por que hay acciones comunicativas y estratégicas, y por que hay poderes y deseos. 
+        Es así por que la educación es un caso ejemplar de como resolver esas tensiones constitutivas de la idea misma de 
+        justicia, como libertad, igualdad, solidaridad y esas otras constitutivas de la idea misma de bien, como fin deseable, 
+        como valor exigible, como identidad (personal y social).
+                
+    2. Debido a que la enseñanza de la ética muchas veces es confundida en su alcance, es importante demarcar y tener las herramientas
+        para argumentar de diferentes formas ante conflictos u opiniones contrapuestas. 
+        La ética ES enseanable por que hay razones para la convivencia justa, y para reconocer diferentes ideales de vida, y
+        para aprender de unos y de otros. Estas razones publicas se las puede comunicar y argumentar.
+        Además, es necesario transponer los conceptos en contenidos educativos (transposición didáctica). 
+        El lugar del docente, a la hora de ensenar ética no debe confundirse, ni con imponer una moral, ni con inculcar valores.
+        Es importante esta atento cuando se discutan valores `controvertidos`, o frente a `posturas` más o menos intolerantes.
+        Siempre recordar que en la ética no se pretende inculcar nuestra propia escala de valores. La prudencia siempre nos ayudara
+        en el proceder cuando exista lo ético y dianoetico.
+        La cuestión es mantener el contexto publico del debate, es decir argumentar en un contexto de reglas de dialogo, aprendiendo
+        a reconocer las diferencias y aprender de ellas.
+        
+    3. La relacion ético/educativa tiene que estar presente en la formación de cualquier maestro o profesor. Es parte central de su 
+        formación general básica. 
+        El docente al hacerse cargo de los contenidos educativos de acuerdo al nivel que se este formando, necesitara saberes 
+        específicos, que por lo mismo tienen que ensenarse como tales.
+        Dicho de otra forma, en base a los saberes específicos del nivel/carrera/curso que se este ensenando, el docente debera desarrollar
+        los contenidos educativos necesarios inmerso en una moral especifica para el lugar donde se desempeñe, simpre contribuyendo 
+        a la formación ciudadana reflexiva.           
     
           
 ## Notas
