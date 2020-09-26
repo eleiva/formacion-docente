@@ -40,7 +40,7 @@
         para aprender de unos y de otros. Estas razones publicas se las puede comunicar y argumentar.
         Además, es necesario transponer los conceptos en contenidos educativos (transposición didáctica). 
         El lugar del docente, a la hora de ensenar ética no debe confundirse, ni con imponer una moral, ni con inculcar valores.
-        Es importante esta atento cuando se discutan valores `controvertidos`, o frente a `posturas` más o menos intolerantes.
+        Es importante está atento cuando se discutan valores `controvertidos`, o frente a `posturas` más o menos intolerantes.
         Siempre recordar que en la ética no se pretende inculcar nuestra propia escala de valores. La prudencia siempre nos ayudara
         en el proceder cuando exista lo ético y dianoetico.
         La cuestión es mantener el contexto publico del debate, es decir argumentar en un contexto de reglas de dialogo, aprendiendo
@@ -51,7 +51,7 @@
         El docente al hacerse cargo de los contenidos educativos de acuerdo al nivel que se este formando, necesitara saberes 
         específicos, que por lo mismo tienen que ensenarse como tales.
         Dicho de otra forma, en base a los saberes específicos del nivel/carrera/curso que se este ensenando, el docente debera desarrollar
-        los contenidos educativos necesarios inmerso en una moral especifica para el lugar donde se desempeñe, simpre contribuyendo 
+        los contenidos educativos necesarios inmerso en una moral especifica para el lugar donde se desempeñe, simple contribuyendo 
         a la formación ciudadana reflexiva.           
     
           
