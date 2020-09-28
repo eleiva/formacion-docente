@@ -7,9 +7,9 @@ Objetivo: Dar opinion sobre algún tópico que aborda.
 
 1. El ser "situado" en la educación y teorías de educabilidad. (situado indica la relacion del estudiante y la sociedad)
 2. El proceso de ensenar y aprender.
-3. Funciones de una filosofia de la educacion.
+3. Funciones de una filosofía de la educación.
 
-## Problemas en torno a los supuestos de una filosofia de la educacion.
+## Problemas en torno a los supuestos de una filosofia de la educación.
  
 La filosofia de la educacion supone querer saber sobre educacion, esto conlleva querer saber sobre:
     1. El ser
@@ -56,21 +56,21 @@ La filosofia de la educacion supone querer saber sobre educacion, esto conlleva 
 
 * La realidad solo puede ser justificada con ideas (proyectos) que confrontan co la realidad y hacen cambiar la realidad
 o los proyectos.
-* Que hace al desarrollo humano? La creacion de oportunidades sociales contribuye a la expansion de las capacidades 
+* Que hace al desarrollo humano? (Amartya Sen) La creacion de oportunidades sociales contribuye a la expansion de las capacidades 
 humanas, y a la mejora de calidad de vida.
 * Posibilitar el establecimiento de criterios de analisis para diversas teorias educativas. 
 * Criterios empleados para juzgar la bondad del proceso educativo
     * cualitativos o cuantitativos.
-    * economicos
-    * de retension del alumnado
+    * económicos
+    * de retención del alumnado
     * oferta actual
     * demanda laboral futura
     * menor fracaso escolar
     * la defensa de la paz
     * derechos humanos
-* Declaracion sobre educacion superior, UNESCO, 1998 :
-    Las instituciones de educacion superior deben formar a los estudiantes para que se conviertan en ciudadanos
-    bien informados y profuncamente motivados, provistos de un sentido critico y capaces de analizar los problemas 
+* Declaración sobre educación superior, UNESCO, 1998 :
+    Las instituciones de educación superior deben formar a los estudiantes para que se conviertan en ciudadanos
+    bien informados y profundamente motivados, provistos de un sentido critico y capaces de analizar los problemas 
     de la sociedad, aplicarlas y asumir responsabilidades sociales.  
 * Sin ideas no es posible cambiar la realidad.
 
@@ -83,8 +83,9 @@ filosofica de la educacion es un intento de comprension, y por lo tanto una cohe
 * Una definicion no es necesariamente una verdad, pero si una delimitacion conceptual de modo que quien lo escucha
 sabe de que estamos hablando. Esto permitira someterla a critica.
 
-## Teoria filosofica  sobre la educacion
-* Una teoria filosofica sobre la educacion debe ser:
+## Teoría filosofica  sobre la educacion
+
+* Una teoría filosófica sobre la educación debe ser:
     * Definir los conceptos fundamentales de filosofia y educacion.
     * define una serie de afirmaciones teoricas (de gran universalidad y abstraccion) que dan sentido a las realidades
     pasadas o presentes.
@@ -92,16 +93,41 @@ sabe de que estamos hablando. Esto permitira someterla a critica.
     * El estudiante
     * La sociedad
     * Los que ayudan
-* La libertad e igualdad son 2 valores fundamentales que hacen a la sociedad humana.
+* La libertad e igualdad son 2 valores fundamentales que hacen a la sociedad humana
+* Nuestra Hipótesis interpretativa trata de hacer constatar que Argentina no apuesta a lo importante para un cambio futuro y
+ duradero, no promueve valores básicos para que deseemos ser socios, para vivir comunicados pero no engañados, para tener un proyecto de
+ crecimiento y vivirlos con esperanzas que no seremos reiteradamente defraudados por politicos.
+* Valores básicos
+    * no robar
+    * controlar los abusos
+    * trabajar
+    * producir
+    * ahorrar
+    * generar libertad social
+    * generar libertad sanitaria
+    
                 
 ### Notas
 
 * `metafisicca`: Mas alla de la fisica. Rama de la filosofia que se encarga de estudiar los problemas centralies de la misma
     el ser, el mundo, dios... etc
 * `sociologismo`: Tendencia o doctrina que interpreta la realidad humana como resultado unicamente de la sociedad.
-* `volitivas`: La concrecion de los pensamientos de una persona en actos.
+* `volitivas`: La concreción de los pensamientos de una persona en actos.
 * `sociedad`: Conjunto de costumbre, normas y leyes sobre valores que rigen la administracion de poder. 
 * `epistemologia`: Rama de la filosofia que estudia el conocimiento cientifico
 * `isoslayable`: no puede ser evitado
 * `criterio`: es una medida o regla que sirve para confrontar y diferenciar ideas confrontadas.
 * `osificarse`: convertirse en un hueso.
+
+## Notas para el audio
+
+> La educación:  un tema en discusión
+
+1. Me gusta pensar que la educación tiene por objetivo primariamente al desarrollo humano integral 
+(cuerpo, mente, espíritu y entorno) e integrador (ente social). 
+2. Para lograr estos objetivos es necesario la creación de oportunidades, ya que estas contribuirán a 
+la expansion de las capacidades humanas, brindaran major seguridad, y largo plazo mejoraran su calidad de vida.
+Si todos los integrantes sociales mejoramos nuestra calidad de vida, entonces viviremos en una mejor sociedad.
+3. Ahora, como generamos más y mejores oportunidades? 
+Creo que nosotros como futuros docentes podemos aportar y mucho en este sentido, debemos tener un fuerte sentido critico, 
+ser capaces de analizar problemas, aplicar soluciones y ser responsables por ellas.
