@@ -9,7 +9,8 @@ que permitira al alumno avanzar durante el curso y no sentirse frustrado.
 
 3. Siguiendo la linea anterior, tambien es necesario conocer cuando seran las reuniones virtuales, y NO dejar en un texto
     esta informacion. (Linea de tiempo en moodle)
-    
+
+4. Ok, encontre el calendario en moodle y tambien las casillas para marcar un objetivo como finalizado. 
         
     
 
