@@ -90,7 +90,7 @@ diseño y evaluación de:
     
 ### Didáctica general y especifica
 
-Ejemplos de didáctica especificas:
+Ejemplos de didáctica especificas (especificidad):
     * el nivel (primario, secundario, etc.)
     * edad (nino, joven, adulto, etc.)
     * disciplina (matemática, lengua, etc.)
@@ -102,9 +102,9 @@ Las didácticas especificas no son consecuencia de una didáctica general ni vic
 Síntesis de las relaciones entre la didáctica general y particular según WolfGang Klafki:
     1. La relación entre dg y dd es reciproca.
     2. La relación entre dg y dd esta basada en la igualdad y cooperación constructiva.
-    3. La dg y dd son necesarias unas de otras.
+    3. La dg y dd son necesarias unas de otras (dependencia una de la otra)
     4. La dd aporta independientemente a la disciplina y a la educación
-    5. Los modelos de las dd tienen mas detalle     
+    5. Los modelos de las dd tienen más detalle     
     
 > La didactica no es un arbol
     
@@ -117,9 +117,58 @@ Síntesis de las relaciones entre la didáctica general y particular según Wolf
     
 ## Resumen: Feldman, D: “Ayudar a enseñar”. Ed. Aique. Buenos Aires, 1999 (Cap. 1 y 2)
 
+1. A que llamamos ensenanza?
+Tradicionalmentse la ensenanza tiene dos significados:
+    1. Poner cosas en la cabeza de los estudiantes
+    1. Sacar cosas o permitir que se expresen los sujetos.
+Siguiendo estas definiciones la cabeza del nino es una tabla rasa y la ensenanza el proceso de inscripcion en ella.
+
+Segun Tanto Passmore como G.Fenstermacher propone que la ensenanza se basa en el compromiso de dos personas, una con 
+algun conocimiento o habilidad y otra que carece de ella, en algun tipo de relacion para que el primer sujeto 
+traspase lo que sabe - sin indicar los medios -  a la persona que no lo sabe. Esto supone una relacion asimetrica.
+
+2. A que llamamos didactica?
+Es una disciplina volcada principalmente a la practica de la ensenanza, que produce una gama variable de conocimientos,
+y que abarca principios teoricos, modelos comprensivos, reglas practicas, metodos y estrategias articuladas de distinta
+indole.
+
+3. Son la relaciones entre teoría y practica, un problema central en la didáctica?
+* Practica designa acciones, una actividad dirigida a cambiar un estado de las cosas.
+* Teoría designa un estado de conocimiento, pero no puede pensarse una practica sin conocimiento.
+Dificulades del uso de `teoria-practica`
+    * 1ra dificulad
+        * Es difícil encontrar el nexo entre teoría y practica
+        * La acción del sujeto esta determinada por sus representacions (Pozo 1989, p42)
+        * Es muy difícil mantener la division entre teoría y practica.
+    * 2da dificultad 
+        * El uso del par `teoria-practica` para el análisis de cuestiones educativas no puede
+        realizar una referencia genérica en la relacion entre teoria y practica por que esa relacion depende del tipo de teoria.  
+    * 3ra dificultad
+        * Solemos llamar teoria a nuestros proyectos y practica a nuestros esfuerzos por llevarlos a cabo.
+        * LLamamos teoria a nuestras propuestas (estrategicas, metodos o tecnicas) y practica el modo en que las realizaremos
+            con resultados variables.
+        * Estos decimos que los problemas surgen cuando:
+            1. Las acciones no son previstas en el mundo de las ideas.
+            2. Las acciones emprendidas fracasan.
+
+* Ciencia aplicada o disciplina practica? 
+    1. Deme un fundamento
+        * Si logramos penetrar en los secretos del proceso de aprendizaje sera posible operar con total exiso
+            sobre él.
+        * Es importante buscar un solido fundamento psicológico para desarrollar un conocimiento didáctico.
+        * “teoría práctica”, una teoría que es“...`teórica` en el sentido de que está sujeta a conceptos de lógica, rigor y reflexión
+          disciplinada y `práctica` en cuanto respeta y conserva el contexto práctico en el que aparecen los problemas” (Carr, 1990, p. 52)
+        * Por la naturaleza de sus tareas, la didactica podria ser considerada una teoria practica, pero el criterio predominnante
+            ha sido considedad a la didactica como una disciplina aplicada.
+        * La devilidad de la teoria surgen de dos fuentes, el inevitable estado inncompleto de los asundtos dque trata la
+        teorias, y la parcialidad del punto de vista que cada ua adopta con respecto a su ya incompleto asunto. (Schwab 1974)
+        * como incrementar nuestra capacidad a ensenar?
+   
+                                   
 ## Resolución
 
-
 ## Notas 
-* `erudito`: que tiene y demuestra sólidos conocimientos en una o multiples disciplinas.
-* `epistemologia`: rama de la filosofia que se ocupa de estudiar la naturaleza, el origen y la validez del conocimiento.
+* `erudito`: Que tiene y demuestra sólidos conocimientos en una o multiples disciplinas.
+* `epistemologia`: Rama de la filosofía que se ocupa de estudiar la naturaleza, el origen y la validez del conocimiento.
+* `hermeneutico`: La hermenéutica es el arte de la explicación, traducción o interpretación de la comunicación escrita, 
+    la comunicación verbal y la comunicación no verbal.
