@@ -6,7 +6,7 @@ es un campo puramente práctico, siendo el objeto de estudio el "cómo" del proc
 recurre a diferentes estrategias o métodos inspirados en las diversas teorías del aprendizaje.
 
 La propuesta para esta primera actividad del curso, es justamente, recorrer y contextualizar la didáctica actual. 
-El debate central esta puesto en si es una ciencia aplica o es una disciplina práctica. Para analizar este tópico les 
+El debate central está puesto en si es una ciencia aplica o es una disciplina práctica. Para analizar este tópico les 
 proponemos realizar la siguiente actividad: 
 
 > La didáctica es el `como` en la educación, un conjunto de técnicas y métodos de enseñanza.
@@ -153,19 +153,67 @@ Dificulades del uso de `teoria-practica`
 
 * Ciencia aplicada o disciplina practica? 
     1. Deme un fundamento
-        * Si logramos penetrar en los secretos del proceso de aprendizaje sera posible operar con total exiso
-            sobre él.
+        * Si logramos penetrar en los secretos del proceso de aprendizaje sera posible operar con total exiso sobre él.
         * Es importante buscar un solido fundamento psicológico para desarrollar un conocimiento didáctico.
         * “teoría práctica”, una teoría que es“...`teórica` en el sentido de que está sujeta a conceptos de lógica, rigor y reflexión
           disciplinada y `práctica` en cuanto respeta y conserva el contexto práctico en el que aparecen los problemas” (Carr, 1990, p. 52)
         * Por la naturaleza de sus tareas, la didactica podria ser considerada una teoria practica, pero el criterio predominnante
-            ha sido considedad a la didactica como una disciplina aplicada.
-        * La devilidad de la teoria surgen de dos fuentes, el inevitable estado inncompleto de los asundtos dque trata la
+           ha sido considedad a la didactica como una disciplina aplicada.
+        * La debilidad de la teoria surgen de dos fuentes, el inevitable estado inncompleto de los asundtos dque trata la
         teorias, y la parcialidad del punto de vista que cada ua adopta con respecto a su ya incompleto asunto. (Schwab 1974)
         * como incrementar nuestra capacidad a ensenar?
-   
+        
+    2. Las didacticas especializadas en campos de conocimiento.
+    3. El conocimiento didactico y sus itereses.
                                    
 ## Resolución
+
+La didáctica (1) es una disciplina teórica que se ocupa de estudiar la acción pedagógica (pedagogía aplicada), es decir, las practicas de la
+enseñanza, y que tiene como mision describirlas, explicarlas y fundamentarlas y enunciar normas para la mejor resolución
+de los problemas que estas practicas plantean los profesores.
+Es en definitiva es una ciencia aplicada, como arte (3), una practica social orientada a diseñar, implementar, identificar, estudiar los problemas 
+relacionados con el aprendizaje, con el objetivo de mejorar los resultados de todos los alumnos en diversas instituciones.
+Por ultimo, la didáctica toma posición ante los problemas de la educación y que procura resolverlos mediante el diseño y evaluación de:
+    * Los proyectos de enseñanza. 
+    * Los currículos.
+    * Los ambientes de aprendizaje.
+    * Las situaciones didácticas.
+    * Los materiales, medios y recursos de enseñanza.
+    * La calidad de enseñanza.
+    * La institución.      
+
+Basándonos en que (1):
+* Siempre se puede ensenar mejor
+* Siempre es necesario revisar la currículos
+* Siempre es necesario revisar las estrategias de enseñanza y crear nuevas maneras de ensenar y evaluar.
+* Es un compromiso que todos los alumnos aprendan y construyan toda clase de valores indispensables para su vida personal.
+y en sus relaciones sociales, como ciudadano y como trabajador.
+* La reflexion debe acompañar sistemáticamente todas las tareas relacionadas con ensenar.
+podemos decir que "Si logramos penetrar en los secretos del proceso de aprendizaje será posible operar con total éxito sobre él." (2)
+y "Es importante buscar un solido fundamento psicológico para desarrollar un conocimiento didáctico" (2)
+
+Sieguiendo la linea psicologica, la cual es central a la hora de tomar deciciones para cada didactica especifica, 
+(ya sabemos que la psicologia en la didactica general esta presente) siento a las diferentes teorías mediacionales 
+- que toman a la cognicion como fundamental ala hora del aprendizaje - son claves a la hora de entender como funciona 
+el proceso ensenanza-aprendizaje (3). Piaget destaca a los elementos que regulan, orientan y facilitan este proceso:
+ 
+1. El carácter constructivo y dialéctico de todo desarrollo personal. 
+2. El carácter sensomotriz (aprendidos cuando somos niños)
+3. El lenguaje (Como primer e importantisima representacion para lograr las operaciones intelectuales complejas)
+4. Conflicto cognitivo (El progreso requiere de conflicto) 
+5. Cooperación (donde la sociedad/ compañeros intervienen comunicándose y dando diferentes puntos de vista.)
+6. La distinción y la vinculación entro desarrollo y aprendizaje (No todo aprendizaje provoca desarrollo)
+7. Dimensiones estructural y afectiva de la conducta.
+
+
+
+
+
+
+1. A. Camilloni, A y otros: “El saber didáctico” ed. Paídos, Barcelona, 2007
+2. Feldman, D: “Ayudar a enseñar”. Ed. Aique. Buenos Aires, 1999 (Cap. 1 y 2)
+3. Perez Gomez - Unidad 1
+
 
 ## Notas 
 * `erudito`: Que tiene y demuestra sólidos conocimientos en una o multiples disciplinas.
