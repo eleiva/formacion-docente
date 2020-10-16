@@ -193,10 +193,9 @@ podemos decir que "Si logramos penetrar en los secretos del proceso de aprendiza
 y "Es importante buscar un solido fundamento psicológico para desarrollar un conocimiento didáctico" (2)
 
 Sieguiendo la linea psicologica, la cual es central a la hora de tomar deciciones para cada didactica especifica, 
-(ya sabemos que la psicologia en la didactica general esta presente) siento a las diferentes teorías mediacionales 
-- que toman a la cognicion como fundamental ala hora del aprendizaje - son claves a la hora de entender como funciona 
+(sabiendo que la psicologia en la didactica general esta presente) siento a las diferentes teorías mediacionales 
+- que toman a la cognicion como fundamental a la hora del aprendizaje - son claves a la hora de entender como funciona 
 el proceso ensenanza-aprendizaje (3). Piaget destaca a los elementos que regulan, orientan y facilitan este proceso:
- 
 1. El carácter constructivo y dialéctico de todo desarrollo personal. 
 2. El carácter sensomotriz (aprendidos cuando somos niños)
 3. El lenguaje (Como primer e importantisima representacion para lograr las operaciones intelectuales complejas)
@@ -205,15 +204,27 @@ el proceso ensenanza-aprendizaje (3). Piaget destaca a los elementos que regulan
 6. La distinción y la vinculación entro desarrollo y aprendizaje (No todo aprendizaje provoca desarrollo)
 7. Dimensiones estructural y afectiva de la conducta.
 
-
-
-
-
+Por ultimo creo que la didacticas estan variando de forma acelerada con el advenimiento de la tecnologia en los ultimos 10 anos.
+En mi tarea como Ingeniero en Sistemas y como desarrollador (programador), veo softwares que utilizan la diversion (juegos como Minecraft) y 
+tecnicas de gamificacion (khan academy por citar un ejemplo) que a la hora de aprender y ensenar.
+El problema que tiene es el acceso... No todos los ninos pueden tenerlo, pero si
+veo que es el camino a desarrollarse, no solo por la necesidades de capacitar a mas y mejor, sino por que las bases
+van a estar desarrolladas. 
 
 1. A. Camilloni, A y otros: “El saber didáctico” ed. Paídos, Barcelona, 2007
 2. Feldman, D: “Ayudar a enseñar”. Ed. Aique. Buenos Aires, 1999 (Cap. 1 y 2)
 3. Perez Gomez - Unidad 1
 
+
+## Estrategias
+
+Buenas tardes, soy Ingeniero en Sistemas de Información, y entre las materias que mi titulo me permite, encuentro a Programación y 
+Análisis Matemático. 
+Doy ejemplos para Programación ya que es un area que encuentra actualmente en desarrollo y en constante avance:
+1. El trabajo grupal: Es sabido hoy por hoy que el `pair programming` ayuda a incrementar la eficiencia del aprendizaje.
+2. El aprendizaje basado en problemas: En programación se solucionan casos reales... por lo cual, presentar casos aplicables es muy bueno.
+3. La simulación: Se podría combinar con el aprendizaje basado en problemas, pera realizar trabajos más reales.
+ 
 
 ## Notas 
 * `erudito`: Que tiene y demuestra sólidos conocimientos en una o multiples disciplinas.
