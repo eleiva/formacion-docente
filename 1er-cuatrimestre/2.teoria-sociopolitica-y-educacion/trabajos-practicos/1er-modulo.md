@@ -1,6 +1,7 @@
 # Tarea Módulo 1, primera parte: La educación como bien social
 
 1. Definir y diferenciar educación de escolarización
+
     La escolarización sucede en los institutos, la educación no depende de ellos.
 
 2. ¿Por qué la escuela es una construcción cultural y no es "natural"?
