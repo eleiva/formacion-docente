@@ -67,3 +67,5 @@ Algunos alternativas modernas:
     
 * HomeSchooling
     Remite a la educación en casa, Los padres ensenan a partir de una curricula sin institución con los problemas que conlleve. 
+    
+    
