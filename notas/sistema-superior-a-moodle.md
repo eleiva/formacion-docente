@@ -12,5 +12,5 @@ que permitira al alumno avanzar durante el curso y no sentirse frustrado.
 
 4. Ok, encontre el calendario en moodle y tambien las casillas para marcar un objetivo como finalizado. 
         
-    
-
+   
+5. Trackear intentos, preguntas directas al profesor, y/o cualquier informacion para el docente.

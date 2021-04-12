@@ -1,6 +1,6 @@
 # Didáctica y curriculum
 
-Profesor: Armagno, Estefania 
+        Profesor: Armagno, Estefania 
 Fechas:     
 *   12/09 
 *   03/10 
